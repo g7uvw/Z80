@@ -1,0 +1,43 @@
+// Ports written to and read from
+
+	                         in a,(04dh)
+	                         in a,(050h)
+       out (051h),a	       in a,(051h)
+	                         in a,(052h)
+	                         in a,(053h)
+
+       out (055h),a
+       out (056h),a	       in a,(056h)
+       out (057h),a	       in a,(057h)
+       out (080h),a	       in a,(080h)
+       out (081h),a
+
+       out (083h),a
+       out (084h),a	       in a,(084h)
+       out (085h),a	       in a,(085h)
+	                         in a,(086h)
+	                         in a,(087h)
+	                         in a,(088h)
+       out (089h),a	       in a,(089h)
+       out (08ch),a
+       out (08dh),a
+       out (08eh),a
+       out (08fh),a
+       out (090h),a	       in a,(090h)
+       out (091h),a	       in a,(091h)
+       out (092h),a	       in a,(092h)
+       out (093h),a	       in a,(093h)
+       out (094h),a	       in a,(094h)
+       out (095h),a	       in a,(095h)
+       out (096h),a	       in a,(096h)
+       out (097h),a	       in a,(097h)
+       out (098h),a
+       out (09ah),a
+       out (09bh),a
+       out (09ch),a
+       out (09dh),a
+       out (09eh),a
+       out (09fh),a	       in a,(09fh)
+       out (0a0h),a	       in a,(0e2h)
+	                         in a,(0e3h)
+	                         in a,(0f0h)
