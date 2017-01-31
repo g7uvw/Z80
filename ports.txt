@@ -2,7 +2,9 @@
 
 Peripheral ports buzzed out on the board (all connect to a 74ls138N)
 
-Z80SIO/0 /CE is 0x50 to 0x53 (A0 & A1 not decoded)
+Z80SIO/0 /CE is 0x50 to 0x53 (A0 & A1 not decoded for /CE address)
+					B/*A is on A0
+					C/*D is on A1
 Z80CTC /CE is 0x54 to 0x57 (A0 & A1 not decoded)
 Z80PIO /CE is 0x4C to 0x4F (A0 & A1 not decoded)
 
