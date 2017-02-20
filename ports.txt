@@ -1,4 +1,4 @@
-
+Backplane bus is documented at : https://allpinouts.org/pinouts/connectors/buses/ecb-bus/
 
 Peripheral ports buzzed out on the board (all connect to a 74ls138N)
 
